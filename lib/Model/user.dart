@@ -1,0 +1,1 @@
+//A new model for user class
